@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637804873799097737
-    m_Hash: 565060239
+      ticks: 637809217109103342
+    m_Hash: 734166185
   m_LockFileStatus:
     m_FilePath: C:/Users/eduar/Desktop/1v1OnlineShooter/1v1OnlineShooter/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637804873799147609
-    m_Hash: 2463102136
+      ticks: 637809217109073957
+    m_Hash: 2485505570
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
